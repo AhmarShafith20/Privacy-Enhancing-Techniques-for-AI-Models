@@ -87,6 +87,3 @@ Trade-Off Analysis
 | Privacy | None | Medium | Strong |
 | Performance | Fast | Medium | Slow |
 
-
-
-## 📁 Project Structure
